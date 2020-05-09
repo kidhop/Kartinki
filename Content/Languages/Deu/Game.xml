@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-Translation of the game-related texts
+Translation of the game-related texts.
 
-For the welcome:
+language - this is the name of the language how it will be displayed/typed in the game
+ThreeLetterISO - unique identifier of the language, please check them here:
 
-
-For the commands:
-please translate "name" and "description" attributes.
-
-
-For ThreeLetterISO codes check:
+For Three Letter ISO codes, see:
 https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 -->
+
 <game language="Deutsch" ThreeLetterISO="deu">
 	<welcome>
 	</welcome>

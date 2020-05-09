@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-For ThreeLetterISO codes check:
+A liitle help for the translations and adding new words.
+
+language - this is the name of the language how it will be displayed/typed in the game
+ThreeLetterISO - unique identifier of the language, please check them here:
+path - where to find the icons (relative to this xml)
+
+For every word you have:
+id - english word, this is the identifier of the word, shouldn't be translated
+translation - this is where you put the translation for the word
+link - this is the link to the icon, relative to the "path"
+
+For Three Letter ISO codes, see:
 https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
-
-"id" is the english word
-
-
 -->
+
 <game language="Deutsch" ThreeLetterISO="deu">
 	<words path="..\..\Icons">
 		<word id="Atom" translation="Atom" link="noun_atom_2032897.svg" attribution="Atom by Jae Deasigner from the Noun Project"/>
