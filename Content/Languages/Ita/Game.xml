@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Translation of the game-related texts.
+
+language - this is the name of the language how it will be displayed/typed in the game
+ThreeLetterISO - unique identifier of the language, please check them here:
+
+For Three Letter ISO codes, see:
+https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+-->
+
+<game language="Italiano" ThreeLetterISO="ita">
+	<welcome>
+	</welcome>
+	<commands>
+		<command id="Menu" name="Menu" description="Apri il menu."/>
+		<command id="Open" name="Salvato" description="Apri un disegno salvato."/>
+		<command id="New" name="Nuovo" description="Crea un nuovo disegno."/>
+		<command id="SaveImage" name="Pronto" description="Cattura una immagine (come PNG) da condividere con i tuoi amici."/>
+	</commands>
+</game>
