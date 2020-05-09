@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+For ThreeLetterISO codes check:
+https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+
+-->
+<game language="English" ThreeLetterISO="eng">
+	<words path="..\..\Icons">
+		<word id="Atom" translation="Atom" link="noun_atom_2032897.svg" attribution="Atom by Jae Deasigner from the Noun Project"/>
+		<word id="Bear" translation="Bear" link="noun_Bear_912740.svg" attribution="Bear by parkjisun from the Noun Project"/>
+		<word id="Cat" translation="Cat" link="noun_Cat_1085595.svg" attribution="Cat by Anastasia Latysheva from the Noun Project"/>
+		<word id="Comet" translation="Comet" link="noun_Comet_1083698.svg" attribution="Comet by IconsGhost from the Noun Project"/>
+		<word id="Earth" translation="Earth" link="noun_Earth_3096937.svg" attribution="Earth by Serhii Smirnov from the Noun Project"/>
+		<word id="Cloud" translation="Cloud" link="noun_Cloud_3196085.svg" attribution="Cloud by By Vectorstall, PK from the Noun Project"/>
+		<word id="Dolphin" translation="Dolphin" link="noun_Dolphin_602203.svg" attribution="Dolphin by André Luiz Gollo, BR from the Noun Project"/>
+		<word id="Fish" translation="Fish" link="noun_Fish_1927831.svg" attribution="Fish by Vectors Market from the Noun Project"/>
+		<word id="Molecule" translation="Molecule" link="noun_molecules_1813622.svg" attribution="Molecules by Alvaro Cabrera, Spain from the Noun Project"/>
+		<word id="Horse" translation="Horse" link="noun_Horse_95331.svg" attribution="Horse by Sascha Elmers, DE from the Noun Project"/>
+		<word id="Stone" translation="Stone" link="noun_stone_2600303.svg" attribution="Stone by septian kho, SG from the Noun Project"/>
+		<word id="House" translation="House" link="noun_House_3198837.svg" attribution="House by Vectorstall, PK from the Noun Project"/>
+		<word id="Saturn" translation="Saturn" link="noun_Saturn_2121503.svg" attribution="Saturn by tulpahn, TH from the Noun Project"/>
+		<word id="Sea star" translation="Sea star" link="noun_sea star_1160534.svg" attribution="Sea Star by David, US from the Noun Project"/>
+		<word id="Shark" translation="Shark" link="noun_Shark_3086948.svg" attribution="Shark by Dmitry Vasiliev from the Noun Project"/>
+		<word id="Star" translation="Star" link="noun_Star_2446868.svg" attribution="Star by Fasobrun Jamil from the Noun Project"/>
+		<word id="Sun" translation="Sun" link="noun_sun_964744.svg" attribution="Sun by Oksana Latysheva, UA from the Noun Project"/>
+		<word id="Tree" translation="Tree" link="noun_Tree_1368998.svg" attribution="Tree by Orin zuu from the Noun Project"/>
+		<word id="Mouse" translation="Mouse" link="noun_Mouse_906635.svg" attribution="Mouse by Symbolon, IT from the Noun Project"/>
+		<word id="Moon" translation="Moon" link="noun_Moon_3006648.svg" attribution="Moon by Vectorstall, PK from the Noun Project"/>
+		<word id="Dinosaur" translation="Dinosaur" link="noun_Ultrasaurus_2064751.svg" attribution="Ultrasaurus by tulpahn, TH from the Noun Project"/>
+		<word id="Shooting star" translation="Shooting star" link="noun_Shooting Star_184686.svg" attribution="Shooting Star by Guilherme Simoes, DE from the Noun Project"/>
+		<word id="Robot" translation="Robot" link="noun_Robot_2702762.svg" attribution="Robot by iconcheese from the Noun Project"/>
+		<word id="Mars" translation="Mars" link="noun_Science_1936280.svg" attribution="Science by scribble.glyph, ID from the Noun Project"/>
+		<word id="Wave" translation="Wave" link="noun_wave_1633294.svg" attribution="Wave by Ayub Irawan, ID from the Noun Project"/>
+		<word id="Sea" translation="Sea" link="noun_Sea_2862360.svg" attribution="Sea by Aina, ID from the Noun Project"/>
+		<word id="Lighthouse" translation="Lighthouse" link="noun_lighthouse on_3190928.svg" attribution="lighthouse on by Yoyon Pujiyono, ID from the Noun Project"/>
+		<word id="Island" translation="Island" link="noun_island_2708901.svg" attribution="Island by Michael Ribeiro, FR from the Noun Project"/>
+		<word id="Mountain" translation="Mountain" link="noun_nature_1844367.svg" attribution="Nature by Diane, ID from the Noun Project"/>
+		<word id="Hill" translation="Hill" link="noun_hills_1634624.svg" attribution="Hills by Kemesh Maharjan, NP from the Noun Project"/>
+		<word id="Tulip" translation="Tulip" link="noun_tulips_3057401.svg" attribution="Tulips by kareemov1000, ID from the Noun Project"/>
+		<word id="Flower" translation="Flower" link="noun_Flower_1931833.svg" attribution="Flower by Vectors Market from the Noun Project"/>
+		<word id="Rope" translation="Rope" link="noun_Rope_1401139.svg" attribution="Rope by Valeriy, US from the Noun Project"/>
+		<word id="Human" translation="Human" link="noun_Human_1026912.svg" attribution="Human by Andrejs Kirma, LV from the Noun Project"/>
+		<word id="Camera" translation="Camera" link="noun_Camera_3255038.svg" attribution="Camera by Kmg Design, ID from the Noun Project"/>
+		<word id="Lamp" ltranslation="Lamp" link="noun_lamp_3254346.svg" attribution="Lamp by jabbar from the Noun Project"/>
+		<word id="Balloon" translation="Balloon" link="noun_Balloon_929044.svg" attribution="Balloon by Mihail Zhukov from the Noun Project"/>
+		<word id="Rainbow" translation="Rainbow" link="noun_Rainbow_2422790.svg" attribution="Rainbow by endang firmansyah from the Noun Project"/>
+		<word id="Eagle" translation="Eagle" link="noun_Eagle_1133173.svg" attribution="Eagle by Yuriy Obodnikov, RU from the Noun Project"/>
+		<word id="Leaf" translation="Leaf" link="noun_leaf_447525.svg" attribution="Leaf by Anne from the Noun Project"/>
+		<word id="Bird" translation="Bird" link="noun_Bird_1324636.svg" attribution="Bird by Icons Producer from the Noun Project"/>
+		<word id="Poop" translation="Poop" link="noun_Poop_2819703.svg" attribution="Poop by Ragal Kartidev from the Noun Project"/>
+		<word id="Feather" translation="Feather" link="noun_feather_2469892.svg" attribution="Feather by Melissa Schmitt from the Noun Project"/>
+		<word id="Shell" translation="Shell" link="noun_shell_1368911.svg" attribution="Shell by Orin zuu from the Noun Project"/>
+		<word id="Monster" translation="Monster" link="noun_Monster_2236267.svg" attribution="Monster by iconcheese from the Noun Project"/>
+		<word id="Clock" translation="Clock" link="noun_clock_1285484.svg" attribution="Clock by NOVITA ASTRI from the Noun Project"/>
+		<word id="Hot air balloon" wtranslation="Hot air balloon" link="noun_Ballon_981733.svg" attribution="Ballon by Nikita Kozin from the Noun Project"/>
+		<word id="Television tower" translation="Television tower" link="noun_Fernsehturm_2272334.svg" attribution="Fernsehturm by emilegraphics from the Noun Project"/>
+		<word id="Butterfly" translation="Butterfly" link="noun_Butterfly_888742.svg" attribution="Butterfly by leo-graph.com from the Noun Project"/>
+		<word id="Raindrop" translation="Raindrop" link="noun_raindrop_2871043.svg" attribution="raindrop by Kawalan Icon from the Noun Project"/>
+		<word id="Puppy" translation="Puppy" link="noun_Dog_131553.svg" attribution="Dog by Daniel Ducrocq from the Noun Project"/>
+		<word id="Dog" translation="Dog" link="noun_Dog_788702.svg" attribution="Dog by lipi from the Noun Project"/>
+		<word id="Heart" translation="Heart" link="noun_Heart_2039495.svg" attribution="Heart by amantaka from the Noun Project"/>
+		<word id="Speech bubble" translation="Speech bubble" link="noun_Speech Bubble_233151.svg" attribution="Speech Bubble by Noe Araujo from the Noun Project"/>
+		<word id="Fox" translation="Fox" link="noun_Fox_104490.svg" attribution="Fox by Anna Bearne from the Noun Project"/>
+		<word id="Wolf" translation="Wolf" link="noun_Wolf_912729.svg" attribution="Wolf by parkjisun from the Noun Project"/>
+		<word id="Rabbit" translation="Rabbit" link="noun_Rabbit_26062.svg" attribution="Rabbit by Theresa Stoodley from the Noun Project"/>
+		<word id="Bunny" translation="Bunny" link="noun_Rabbit_14798.svg" attribution="Rabbit by maria camila garcia mugno from the Noun Project"/>
+		<word id="Carrot" translation="Carrot" link="noun_Carrot_2273767.svg" attribution="Carrot by SELicon from the Noun Project"/>
+		<word id="Book" translation="Book" link="noun_Book_2879562.svg" attribution="Book by QOLBIN SALIIM from the Noun Project"/>
+		<word id="Ice Cream" translation="Ice Cream" link="noun_Ice Cream Cone_1704405.svg" attribution="Ice Cream Cone by TS Graphics from the Noun Project"/>
+		<word id="Deck chair" translation="Deck chair" link="noun_deck chair_2469447.svg" attribution="deck chair by Eddy Wong from the Noun Project"/>
+		<word id="Beanie" translation="Beanie" link="noun_beanie_1179357.svg" attribution="beanie by Locad from the Noun Project"/>
+		<word id="Roller Skate" translation="Roller Skate" link="noun_Roller Skate_2517232.svg" attribution="Roller Skate by Eucalyp from the Noun Project"/>
+		<word id="Hedgehog" translation="Hedgehog" link="noun_Hedgehog_54773.svg" attribution="Hedgehog by Arancha R from the Noun Project"/>
+		<word id="Treasure chest" translation="Treasure chest" link="noun_Treasure Chest_1241471.svg" attribution="Treasure Chest by Andrew Doane from the Noun Project"/>
+		<word id="Grass" translation="Grass" link="noun_grass_294367.svg" attribution="grass by Ángel Santos Freyta from the Noun Project"/>
+		<word id="Penguin" translation="Penguin" link="noun_Penguin_3011299.svg" attribution="Penguin by richad from the Noun Project"/>
+		<word id="Seal" translation="Seal" link="noun_Seal_1963419.svg" attribution="Seal by cinnamon stick from the Noun Project"/>
+		<word id="Rocket" translation="Rocket" link="noun_Airplane_3318652.svg" attribution="Airplane by Graphik Designz from the Noun Project"/>
+		<word id="Airplane" translation="Airplane" link="noun_Airplane_981924.svg" attribution="Airplane by jeff from the Noun Project"/>
+		<word id="Rubik's Cube" translation="Rubik's Cube" link="noun_Rubik's Cube_867551.svg" attribution="Rubik's Cube by Aleks from the Noun Project"/>
+		<word id="Phone" translation="Phone" link="noun_Phone_2048814.svg" attribution="Phone by REVA from the Noun Project"/>
+		<word id="Headphones" translation="Headphones" link="noun_Headphones_1211259.svg" attribution="Headphones by Adrien Coquet from the Noun Project"/>
+		<word id="Car" translation="Car" link="noun_Car_1146576.svg" attribution="Car by asianson.design from the Noun Project"/>
+		<word id="T-Shirt" translation="T-Shirt" link="noun_Tshirt_1407527.svg" attribution="Tshirt by Deemak Daksina from the Noun Project"/>
+		<word id="Shoes" translation="Shoes" link="noun_shoes_3202297.svg" attribution="shoes by Adrien Coquet from the Noun Project"/>
+		<word id="Boot" translation="Boot" link="noun_Boot_28785.svg" attribution="Boot by Fabio Meroni from the Noun Project"/>
+		<word id="Plaster" translation="Plaster" link="noun_plaster_2198677.svg" attribution="plaster by Nuttapon Pohnprompratahn from the Noun Project"/>
+	</words>
+	<color-palette>
+		<color name="white">#ffffff</color>
+		<color name="black">#000000</color>
+		<color name="red">#e53935</color>
+		<color name="pink">#f06292</color>
+		<color name="purple">#ab47bc</color>
+		<color name="indigo">#3f51b5</color>
+		<color name="light blue">#29b6f6</color>
+		<color name="teal">#26a69a</color>
+		<color name="green">#66bb6a</color>
+		<color name="blue">#1976d2</color>
+		<color name="yellow">#fdd835</color>
+		<color name="orange">#fb8c00</color>
+		<color name="brown">#795548</color>
+		<color name="grey">#9e9e9e</color>
+		<color name="light green">#9ccc65</color>
+	</color-palette>
+</game>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Translation of the game-related texts
+
+For ThreeLetterISO codes check:
+https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+-->
+<game language="Русский" ThreeLetterISO="rus">
+	<welcome>
+	</welcome>
+	<commands>
+		<command id="Menu" name="Меню" description="Открыть меню."/>
+		<command id="Open" name="Старая" description="Открыть старую картинку."/>
+		<command id="New" name="Новая" description="Начать новую картинку."/>
+		<command id="SaveImage" name="Готово" description="Сохранить картику (как PNG), чтобы показать друзьям."/>
+	</commands>
+</game>

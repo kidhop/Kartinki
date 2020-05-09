@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Translation of the game-related texts
+
+For the welcome:
+
+
+For the commands:
+please translate "name" and "description" attributes.
+
+
+For ThreeLetterISO codes check:
+https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+-->
+<game language="Deutsch" ThreeLetterISO="deu">
+	<welcome>
+	</welcome>
+	<commands>
+		<command id="Menu" name="Menu" description="Menü Öffnen"/>
+		<command id="Open" name="Alt" description="Ein altes Bild öffnen."/>
+		<command id="New" name="Neu" description="Ein neues Bild anfangen."/>
+		<command id="SaveImage" name="Fertig" description="Das Bild speichern (als PNG) um Freunden zu zeigen."/>
+	</commands>
+</game>
