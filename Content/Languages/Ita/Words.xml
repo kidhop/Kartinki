@@ -16,7 +16,7 @@ For Three Letter ISO codes, see:
 https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 -->
 
-<game language="English" ThreeLetterISO="eng">
+<game language="Italiano" ThreeLetterISO="ita">
 	<words path="..\..\Icons">
 		<word id="Atom" translation="Atomo" link="noun_atom_2032897.svg" attribution="Atom by Jae Deasigner from the Noun Project"/>
 		<word id="Bear" translation="Orso" link="noun_Bear_912740.svg" attribution="Bear by parkjisun from the Noun Project"/>
@@ -53,7 +53,7 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 		<word id="Rope" translation="Corda" link="noun_Rope_1401139.svg" attribution="Rope by Valeriy, US from the Noun Project"/>
 		<word id="Human" translation="Umano" link="noun_Human_1026912.svg" attribution="Human by Andrejs Kirma, LV from the Noun Project"/>
 		<word id="Camera" translation="Macchina fotografica" link="noun_Camera_3255038.svg" attribution="Camera by Kmg Design, ID from the Noun Project"/>
-		<word id="Lamp" ltranslation="Lampada" link="noun_lamp_3254346.svg" attribution="Lamp by jabbar from the Noun Project"/>
+		<word id="Lamp" translation="Lampada" link="noun_lamp_3254346.svg" attribution="Lamp by jabbar from the Noun Project"/>
 		<word id="Balloon" translation="Pallone" link="noun_Balloon_929044.svg" attribution="Balloon by Mihail Zhukov from the Noun Project"/>
 		<word id="Rainbow" translation="Arcobaleno" link="noun_Rainbow_2422790.svg" attribution="Rainbow by endang firmansyah from the Noun Project"/>
 		<word id="Eagle" translation="Aquila" link="noun_Eagle_1133173.svg" attribution="Eagle by Yuriy Obodnikov, RU from the Noun Project"/>
@@ -64,7 +64,7 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 		<word id="Shell" translation="Conchiglia" link="noun_shell_1368911.svg" attribution="Shell by Orin zuu from the Noun Project"/>
 		<word id="Monster" translation="Mostro" link="noun_Monster_2236267.svg" attribution="Monster by iconcheese from the Noun Project"/>
 		<word id="Clock" translation="Orologio" link="noun_clock_1285484.svg" attribution="Clock by NOVITA ASTRI from the Noun Project"/>
-		<word id="Hot air balloon" wtranslation="Pallone aerostatico" link="noun_Ballon_981733.svg" attribution="Ballon by Nikita Kozin from the Noun Project"/>
+		<word id="Hot air balloon" translation="Pallone aerostatico" link="noun_Ballon_981733.svg" attribution="Ballon by Nikita Kozin from the Noun Project"/>
 		<word id="Television tower" translation="Torre della televisione" link="noun_Fernsehturm_2272334.svg" attribution="Fernsehturm by emilegraphics from the Noun Project"/>
 		<word id="Butterfly" translation="Farfalla" link="noun_Butterfly_888742.svg" attribution="Butterfly by leo-graph.com from the Noun Project"/>
 		<word id="Raindrop" translation="Goccia di pioggia" link="noun_raindrop_2871043.svg" attribution="raindrop by Kawalan Icon from the Noun Project"/>
