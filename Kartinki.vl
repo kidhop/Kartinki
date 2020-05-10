@@ -15310,25 +15310,6 @@
             </Node>
             <ControlPoint Id="DMJMMg3zwTSQB7oEAXJrE8" Bounds="1264,768" />
             <ControlPoint Id="OZcA4DS9vLIMjNhAR4W0ya" Bounds="1250,774" />
-            <Node Bounds="1475,1552,169,80" Id="JdSCltarQdaO4ycUBNVFLR">
-              <p:NodeReference LastCategoryFullName="Primitive" LastSymbolSource="CoreLibBasics.vl">
-                <Choice Kind="StatefulRegion" Name="Region (Stateful)" Fixed="true" />
-                <Choice Kind="ApplicationStatefulRegion" Name="If" />
-                <CategoryReference Kind="Category" Name="Primitive" />
-              </p:NodeReference>
-              <Pin Id="QMaiQRBmpL4Nkwb0y9gELn" Name="Condition" Kind="InputPin" />
-              <Patch Id="G65Qu4PZhlnMnpREIqDpOQ" ManuallySortedPins="true">
-                <Patch Id="JEGQkSoEKIVMNr7Bq0h4eB" Name="Create" ManuallySortedPins="true" />
-                <Patch Id="JFyXXNbORZcNcvmFRYS4kb" Name="Then" ManuallySortedPins="true" />
-                <Node Bounds="1487,1584,145,19" Id="RQDiPLCgzpGOKecKO5WTLg">
-                  <p:NodeReference LastCategoryFullName="Kartinki.WordsList" LastSymbolSource="Kartinki.vl">
-                    <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
-                    <Choice Kind="ProcessAppFlag" Name="GeneratePDFandAttributions" />
-                  </p:NodeReference>
-                  <Pin Id="H0Z7356CX61L0TBRwesrKw" Name="State" Kind="InputPin" />
-                </Node>
-              </Patch>
-            </Node>
           </Canvas>
           <Patch Id="CXvq7RAhn2DMrZZ4WkRsTR" Name="Create" ParticipatingElements="NAaE20chUBHQLKfXh7kqwF,N5P2dcr2LaSLebpmpwbMGz,UNKuVJ4U1KHM7IFWYGkBZb">
             <Pin Id="QjvBAzx1kl3P8zneT9WZbR" Name="State" Kind="OutputPin" Bounds="1103,1049" />
@@ -15447,8 +15428,6 @@
           <Link Id="BmGoAwmAMwXLs82qqTnZpj" Ids="JgnFIXAFH4dOztjDC93VQG,OZcA4DS9vLIMjNhAR4W0ya,HBJMh5zkqB3PezJc4ANUK7" />
           <Link Id="C1CkwcZQptpQFrjV6bmr6R" Ids="UslTLGwzxS4MtQrLoNH9lR,E51uU5XHW5FLZlrfncUU8r" />
           <Link Id="LLx7cqIo2pCNkpbO8DubMY" Ids="JgnFIXAFH4dOztjDC93VQG,DMJMMg3zwTSQB7oEAXJrE8,DKCWXzsRjhrQKqwkWby9AD" />
-          <Link Id="MvpgLt104bQNw7A6nsX6GF" Ids="QoiigiOq0uIMxYRxkWHCCa,QMaiQRBmpL4Nkwb0y9gELn" />
-          <Link Id="FsRT6va0TLuPIqgkU0dYCO" Ids="JKEqKCgELIFQdcebFTduuj,H0Z7356CX61L0TBRwesrKw" />
         </Patch>
       </Node>
       <!--
