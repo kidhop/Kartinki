@@ -1935,10 +1935,10 @@
               <Pin Id="Rxc0ZT4kmewL0zLCG02Ap9" Name="Force" Kind="InputPin" />
               <Pin Id="HxrRW32QMhWMO5NCsPXaP5" Name="Dispose Cached Outputs" Kind="InputPin" />
               <Pin Id="KUx0feiZuqNNmaRveh6u97" Name="Has Changed" Kind="OutputPin" />
-              <ControlPoint Id="C4I05w2qLkQMk1D0gRWhax" Bounds="1265,1692" Alignment="Bottom" />
-              <ControlPoint Id="OKq7wx6NNexMQW5BkMcyCb" Bounds="811,1692" Alignment="Bottom" />
-              <ControlPoint Id="JCyXVOGztkUN4O1W0ZLHbO" Bounds="235,1692" Alignment="Bottom" />
-              <ControlPoint Id="CgoeOEuxzAqNhiJkI6wqDw" Bounds="-355,1692" Alignment="Bottom" />
+              <ControlPoint Id="C4I05w2qLkQMk1D0gRWhax" Bounds="1265,1715" Alignment="Bottom" />
+              <ControlPoint Id="OKq7wx6NNexMQW5BkMcyCb" Bounds="811,1715" Alignment="Bottom" />
+              <ControlPoint Id="JCyXVOGztkUN4O1W0ZLHbO" Bounds="235,1715" Alignment="Bottom" />
+              <ControlPoint Id="CgoeOEuxzAqNhiJkI6wqDw" Bounds="-355,1715" Alignment="Bottom" />
               <ControlPoint Id="AW4hxbjA5szPE48xya5DkT" Bounds="471,324" Alignment="Top" />
               <Patch Id="GIWPKXBZ5IOOeqWZcwvh2F" ManuallySortedPins="true">
                 <Patch Id="Un0LPky9sO8OqD6IQJqcZZ" Name="Create" ManuallySortedPins="true" />
@@ -2552,13 +2552,23 @@
                   <Pin Id="Fczx4q2JNsRQOsk5nMTGg7" Name="Input 2" Kind="InputPin" />
                   <Pin Id="KVQc7tUncsBPkFs0yh5sBH" Name="Output" Kind="StateOutputPin" />
                 </Node>
+                <Node Bounds="-30,926,61,19" Id="Osjuzp8KuGLP4JqY3dVEiJ">
+                  <p:NodeReference LastCategoryFullName="Kartinki.Help" LastSymbolSource="Kartinki-Help.vl">
+                    <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
+                    <Choice Kind="OperationCallFlag" Name="ParseHelp" />
+                  </p:NodeReference>
+                  <Pin Id="HB2M8UBsMUIMqvibZ7aUeg" Name="Input" Kind="InputPin" />
+                  <Pin Id="MVUN1wmUldoPru3iNQxKOv" Name="Output" Kind="OutputPin" />
+                </Node>
               </Patch>
+              <ControlPoint Id="SR5TSquy8VzQRfC9eE6ahn" Bounds="-44,1715" Alignment="Bottom" />
             </Node>
             <ControlPoint Id="V5CRPaaGHj8PtdbOUw1rfj" Bounds="472,256" />
             <ControlPoint Id="LARnMfLTk96M9zHfuH6Y4g" Bounds="1258,1836" />
             <ControlPoint Id="HH0tj7D4qqqMzIxsZUuH5w" Bounds="804,1842" />
             <ControlPoint Id="EHsKkoH5KSjNERNt5OcxuW" Bounds="238,1815" />
             <ControlPoint Id="J78BamrvuImOD8WQ6nZROn" Bounds="-357,1787" />
+            <ControlPoint Id="VLI3LXbLqDpLmcZXlMuZ9r" Bounds="-53,1809" />
           </Canvas>
           <ProcessDefinition Id="C1gzMbG6bZfPV2Oj0EurqP">
             <Fragment Id="CEl9F3QTCtYPcRVHmfLsJM" Patch="NhV5mtRSHNgMCG6VZxfehP" Enabled="true" />
@@ -2650,6 +2660,7 @@
             <Pin Id="KgW32dNek7xPpVRbgGeENR" Name="Words" Kind="OutputPin" Bounds="1208,1708" />
             <Pin Id="FfXk2mAgWZaNBTQJRZSose" Name="Colors" Kind="OutputPin" Bounds="-373,1710" />
             <Pin Id="AyF49fvPj1VMVIXGIdFMXU" Name="Commands" Kind="OutputPin" Bounds="6,1720" />
+            <Pin Id="LgsjIygWnRDQQ1jEE8JMrQ" Name="HelpData" Kind="OutputPin" Bounds="1138,1826" />
           </Patch>
           <Link Id="GnPZyjpun5hMnI08TCfvnj" Ids="FpJtpx1GWyWO1cb1Y7xPzG,V5CRPaaGHj8PtdbOUw1rfj" IsHidden="true" />
           <Link Id="MDAWuctYzeiLYFwdDJBN5s" Ids="EQmZ8juiEBGMw9IR4erj2O,Ubdn88UyJe1PFjsUsktjwy" />
@@ -2690,6 +2701,10 @@
           <Link Id="ARAHASxxe6ANzBIIuwmD0g" Ids="KVQc7tUncsBPkFs0yh5sBH,C4I05w2qLkQMk1D0gRWhax" />
           <Link Id="C4a9fW4Ji1sMyP0mEjrUsx" Ids="SsOk2MQerSyN1ZygG7pzqA,Fczx4q2JNsRQOsk5nMTGg7" />
           <Link Id="VnsXJmX9NGeOJ2sRGwJEkE" Ids="TTrOFcwLNsBLEU67WAEHn0,ERVYKTusRadMDUpabkwoad" />
+          <Link Id="LF2zzYcecLbNylXmU7AqvX" Ids="MVUN1wmUldoPru3iNQxKOv,SR5TSquy8VzQRfC9eE6ahn" />
+          <Link Id="RV0Apaljn7xLPdsOrSAfTv" Ids="SR5TSquy8VzQRfC9eE6ahn,VLI3LXbLqDpLmcZXlMuZ9r" />
+          <Link Id="AP4oOfpTqxsN3583fpq6MS" Ids="VLI3LXbLqDpLmcZXlMuZ9r,LgsjIygWnRDQQ1jEE8JMrQ" IsHidden="true" />
+          <Link Id="Dwr6FPnkW63NlaaSUEss2t" Ids="TFtayfSC94PNs9XNro5uBt,HB2M8UBsMUIMqvibZ7aUeg" />
         </Patch>
       </Node>
       <!--
@@ -4037,6 +4052,7 @@
                 </p:NodeReference>
                 <Pin Id="OaxvoEF46oaP2sorKou9Iz" Name="Language" Kind="InputPin" />
                 <Pin Id="UTyEiUFLAy5QWnk6aj0pYY" Name="Commands" Kind="OutputPin" />
+                <Pin Id="KmkCxOR1HBLODpidkHTAJJ" Name="HelpData" Kind="OutputPin" />
                 <Pin Id="VvuRNkq3kSxLUg3KdzqS9B" Name="Colors" Kind="OutputPin" />
                 <Pin Id="VjROR8X0MWyNaJ2R1CYeSA" Name="Words" Kind="OutputPin" />
                 <Pin Id="OZl10WkNSBrOTFrz6J5I3H" Name="Success" Kind="OutputPin" />
@@ -4648,6 +4664,7 @@
               </p:NodeReference>
               <Pin Id="KPlazZw2YQcMm1qC3XWveB" Name="Language" Kind="InputPin" />
               <Pin Id="VhdzQZ5KE4HMB0ySLL6iAQ" Name="Commands" Kind="OutputPin" />
+              <Pin Id="LtRozJKQDe3NoRDwfgr8qe" Name="HelpData" Kind="OutputPin" />
               <Pin Id="COhMQBlZ61bNVEY9sNFFNu" Name="Colors" Kind="OutputPin" />
               <Pin Id="JOEv98gH1anP4R4N69YjWZ" Name="Words" Kind="OutputPin" />
               <Pin Id="H96rhPr2Cu3Py2UV7GGWnp" Name="Success" Kind="OutputPin" />
@@ -4791,4 +4808,5 @@
   <NugetDependency Id="UDV3mvbmplHOuljYWN0YBQ" Location="VL.Skia" Version="2020.1.0" />
   <PlatformDependency Id="JBlRBDwwSRDLIqo3LCQl44" Location="System.Globalization" />
   <NugetDependency Id="BwTHLZq5PlfNVPM1WxchjX" Location="VL.HDE" IsForward="true" Version="2020.1.0" />
+  <DocumentDependency Id="JqHXIP3CVUhPM6lHaOldSd" Location="./Kartinki-Help.vl" />
 </Document>
