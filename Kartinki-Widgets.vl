@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Document xmlns:p="property" Id="JIun86Tap51OWGWwNtZNEO" LanguageVersion="2020.1.0.53" Version="0.128">
-  <NugetDependency Id="Hf0wR1a2eNSMAaD7Pd0LPV" Location="VL.CoreLib" Version="2020.1.0" />
+<Document xmlns:p="property" Id="JIun86Tap51OWGWwNtZNEO" LanguageVersion="2020.1.7.184" Version="0.128">
+  <NugetDependency Id="Hf0wR1a2eNSMAaD7Pd0LPV" Location="VL.CoreLib" Version="2020.1.7" />
   <Patch Id="MnAtP4sHZpmLnJgleQEkx1">
     <Canvas Id="Kze0lRgjBh5PiGbSecY5TP" DefaultCategory="Kartinki" CanvasType="FullCategory">
       <Canvas Id="RyHkCNtnslsLPhico3nNV6" Name="Widgets" Position="409,186">
@@ -801,7 +801,7 @@
               </Node>
               <Pad Id="CqYQzjOvjpLOtEdZT6CP8o" SlotId="LYCZAMfMsUvPAhQIib3eCi" Bounds="188,314" />
               <Node Bounds="189,259,59,19" Id="BbSKG7EwT6XO5a2yGir5Zu">
-                <p:NodeReference LastCategoryFullName="HDE.Widgets" LastSymbolSource="HDE.WidgetsAndViewers.vl">
+                <p:NodeReference LastCategoryFullName="HDE.TooltipWidgets" LastSymbolSource="HDE.WidgetsAndViewers.vl">
                   <Choice Kind="NodeFlag" Name="Node" Fixed="true" />
                   <Choice Kind="ProcessNode" Name="ToWidgetView" />
                 </p:NodeReference>
@@ -932,7 +932,6 @@
       </Patch>
     </Node>
   </Patch>
-  <NugetDependency Id="MNRDWAvGK3RMKk6EdFe3Aa" Location="VL.Skia" Version="2020.1.0" />
-  <NugetDependency Id="Helo9OZM7TULyYsj9kzRe5" Location="VL.HDE" Version="2020.1.0" />
-  <NugetDependency Id="UP7Gs8tKT95QO3Srd4h96B" Location="VL.Elementa" Version="2.2.3" />
+  <NugetDependency Id="MNRDWAvGK3RMKk6EdFe3Aa" Location="VL.Skia" Version="2020.1.7" />
+  <NugetDependency Id="Helo9OZM7TULyYsj9kzRe5" Location="VL.HDE" Version="2020.1.7" />
 </Document>
