@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Translation of the game-related texts.
+
+language - this is the name of the language how it will be displayed/typed in the game
+ThreeLetterISO - unique identifier of the language, please check them here:
+
+For Three Letter ISO codes, see:
+https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
+-->
+
+<game language="Italiano" ThreeLetterISO="ita">
+	<keys headline="Use these keys">
+		<key id="F1" description="Open this help"/>
+		<key id="Enter" description="Finished typing a word or number? Press Enter"/>
+		<key id="Move" description="Move images"/>
+		<key id="Scale" description="Make images bigger or smaller"/>
+		<key id="Tab" description="Jump to another image"/>
+		<key id="Delete" description="Remove an image"/>
+		<key id="Esc" description="Show only your picture"/>
+	</keys>
+	<commands headline="Type these special words">
+		<command id="Open" name="Salvato" description="Apri un disegno salvato."/>
+		<command id="New" name="Nuovo" description="Crea un nuovo disegno."/>
+		<command id="SaveImage" name="Pronto" description="Cattura una immagine (come PNG) da condividere con i tuoi amici."/>
+		<command id="Level 1" name="Level 1" description="Type a number for a color"/>
+		<command id="Level 2" name="Level 2" description="Add numbers for a color"/>
+		<command id="Level 3" name="Level 3" description="Add and Subtract numbers for a color"/>
+	</commands>
+	<texts>
+		<welcome>This is a game.
+You make a picture by writing words.
+And color it by typing numbers.
+		</welcome>
+		<info headline="Also">Type a name of a language to use it.
+Your pictures are always saved, no worries.
+		</info>
+		<play>Ready to play? Press this key:</play>
+	</texts>
+</game>
