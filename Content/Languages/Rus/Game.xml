@@ -11,12 +11,31 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 -->
 
 <game language="Русский" ThreeLetterISO="rus">
-	<welcome>
-	</welcome>
+	<keys headline="Используй эти клавиши">
+		<key id="F1" description="Открыть помощь"/>
+		<key id="Enter" description="Слово или число набрано? Нажимай Enter"/>
+		<key id="Move" description="Передвинуть картинку"/>
+		<key id="Scale" description="Сделать картинку больше или меньше"/>
+		<key id="Tab" description="Выбрать картинку"/>
+		<key id="Delete" description="Стереть картинку"/>
+		<key id="Esc" description="Показать только картинку"/>
+	</keys>
 	<commands>
-		<command id="Menu" name="Меню" description="Открыть меню."/>
 		<command id="Open" name="Старая" description="Открыть старую картинку."/>
 		<command id="New" name="Новая" description="Начать новую картинку."/>
 		<command id="SaveImage" name="Готово" description="Сохранить картику (как PNG), чтобы показать друзьям."/>
+		<command id="Level 1" name="Level 1" description="Каждый цвет - просто число"/>
+		<command id="Level 2" name="Level 2" description="Сложи числа для цвета"/>
+		<command id="Level 3" name="Level 3" description="Сложи или вычти числа для цвета"/>
 	</commands>
+	<texts>
+		<welcome>Это игра.
+Здесь рисуют картинки словами.
+И раскрашивают числами.
+		</welcome>
+		<info headline="Also">Набери название языка, чтобы его использовать.
+Картинки всегда сохраняются, не беспокойся.
+		</info>
+		<play>Поехали? Нажми эту клавишу:</play>
+	</texts>
 </game>

@@ -20,13 +20,13 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 		<key id="Delete" description="Remove an image"/>
 		<key id="Esc" description="Show only your picture"/>
 	</keys>
-	<commands headline="Special words">
+	<commands headline="Type these special words">
 		<command id="New" name="New" description="Create a new picture"/>
 		<command id="Open" name="Old" description="Open an old picture"/>
 		<command id="SaveImage" name="Ready" description="Save the picture (as PNG) to share with friends"/>
-		<command id="Level1" name="Level 1" description="Type a number for a color"/>
-		<command id="Level2" name="Level 2" description="Add numbers for a color"/>
-		<command id="Level3" name="Level 3" description="Add and Subtract numbers for a color"/>
+		<command id="Level 1" name="Level 1" description="Type a number for a color"/>
+		<command id="Level 2" name="Level 2" description="Add numbers for a color"/>
+		<command id="Level 3" name="Level 3" description="Add and Subtract numbers for a color"/>
 	</commands>
 	<texts>
 		<welcome>This is a game.
@@ -36,6 +36,6 @@ And color it by typing numbers.
 		<info headline="Also">Type a name of a language to use it.
 Your pictures are always saved, no worries.
 		</info>
-		<play>Press to play:</play>
+		<play>Ready to play? Press this key:</play>
 	</texts>
 </game>
