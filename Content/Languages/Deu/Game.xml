@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes
 -->
 
 <game language="Deutsch" ThreeLetterISO="deu">
-	<keys headline="Use these keys">
+	<keys headline="Benutze diese Tasten">
 		<key id="F1" description="Open this help"/>
 		<key id="Enter" description="Finished typing a word or number? Press Enter"/>
 		<key id="Move" description="Move images"/>
